@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-nav .nav-item {
+    padding: 2px 25px;
+}
+
+.navbar-collapse .navbar-nav .nav-item .nav-link {
+    color: white;
+    font-size: 18px;
+}
+
+.navbar-collapse .navbar-nav .nav-item a:hover {
+    color:aqua;
+}
+.cont-style {
+    margin-bottom: 30px;
+}
+.nav-img {
+    width: 80px;
+    height: 80px;
+}
+.image-style {
+    height:800px;
+}
